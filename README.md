@@ -9,6 +9,10 @@
 | Windows x64 | `windows/brosdk.dll` |
 | macOS ARM64 | `arm64-osx/libbrosdk.dylib` |
 
+## 支持的内核
+
+请访问 https://github.com/browsersdk/brosdk-core
+
 ## 核心功能
 
 ### 环境管理
